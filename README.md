@@ -1,0 +1,2 @@
+# MusicGuruz
+Custom Media Player
